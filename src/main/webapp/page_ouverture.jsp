@@ -55,13 +55,13 @@
        <div class=" d-grid p-5 rounded-3" id="wrap" style="margin-left: 8%; margin-top: 10%; width: 40%; background-color:rgba(230, 186, 243, 0.229);">
          <div style="line-height: 3px;">
            <p style=" color: rgb(113, 14, 135); font-size: 3.5em;"><i style="font-weight: 800; color: rgb(235, 77, 15);" class=" fab fa-java me-3"></i> 
-           <span>PROJET 5 :</span> <span style="font-family: impact;">APPARTEMENT </span></p>
+           <span>PROJET 5 :</span> <span style="font-family: impact;">TRANO </span></p>
            <p class="" style="color:rgb(227, 178, 19); font-size: 2em; font-weight: 600;margin-left: 13em"> CRUD - SIMPLE </p>
         </div>
         
         <div style="text-align: center; color: rgb(98, 96, 98); margin-top: 3em">
            <p style="font-size: 15px; font-family: sans-serif;">Developpement et conception d'une application permettant,<br>
-           d'ajouter des données dans une table Appartement. <br>
+           d'ajouter des donnÃ©es dans une table Appartement. <br>
            
            </p>
         </div>
@@ -73,7 +73,7 @@
               
 		          <div class="d-flex align-items-center">
 		           <input type="password" style="width: 55%; border: none; background-color:rgb(232, 195, 247); outline: none;" 
-		           placeholder="Clé administrateur " name="cle" class="form-control p-3 me-3" required>
+		           placeholder="ClÃ© administrateur " name="cle" class="form-control p-3 me-3" required>
 		           <span onclick="soumetresss();" class="btn btn text-white" style="background-color: rgb(235, 77, 15); padding: 0.9em;">
 		           <i class="fab fa-firefox-browser me-2"></i> <b style="font-weight: 800;"> CONNECTER </b> </span> 
 		          </div>
@@ -126,7 +126,7 @@
 		   }else if(cle == ""){
 			   document.getElementById("err").innerHTML = "Veuillez remplir le champ !!";
 		   }else{
-			   document.getElementById("err").innerHTML = "Clé Administrateur incorect!!";
+			   document.getElementById("err").innerHTML = "ClÃ© Administrateur incorect!!";
 		   }
 		
 		}
