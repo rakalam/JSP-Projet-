@@ -55,7 +55,7 @@
        <div class=" d-grid p-5 rounded-3" id="wrap" style="margin-left: 8%; margin-top: 10%; width: 40%; background-color:rgba(230, 186, 243, 0.229);">
          <div style="line-height: 3px;">
            <p style=" color: rgb(113, 14, 135); font-size: 3.5em;"><i style="font-weight: 800; color: rgb(235, 77, 15);" class=" fab fa-java me-3"></i> 
-           <span>PROJET 5 :</span> <span style="font-family: impact;">TRANO </span></p>
+           <span>PROJET 5 :</span> <span style="font-family: impact;">APPARTEMENT </span></p>
            <p class="" style="color:rgb(227, 178, 19); font-size: 2em; font-weight: 600;margin-left: 13em"> CRUD - SIMPLE </p>
         </div>
         
